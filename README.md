@@ -1,4 +1,4 @@
-# express-error-handling-show-and-tell
+# Express error handling show & tell
 Examples of how to handle errors in node and express.
 Shows: 
 - express error handling of sync vs async requests
